@@ -3,7 +3,7 @@
 每日一题打卡记录  
 [2020-03月 每日一题](https://leetcode-cn.com/problemset/2020-03/)    
 ✅ 2020-3-1 [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)  
-2020-3-2 [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)  
+✅ 2020-3-2 [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)  
 2020-3-3 [面试题 10.01. 合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/)  
 2020-3-4 [994. 腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)  
 2020-3-5 [1103. 分糖果 II](https://leetcode-cn.com/problems/distribute-candies-to-people/)  
