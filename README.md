@@ -10,7 +10,7 @@
 2020-3-6 [面试题57 - II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)  
 2020-3-7 [面试题59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)  
 2020-3-8 [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)  
-2020-3-9 [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)  
+✅ 2020-3-9 [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)  
 2020-3-10 [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)  
 2020-3-11 [1013. 将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)  
 2020-3-12 [1071. 字符串的最大公因子](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)  
@@ -24,7 +24,11 @@
 
 ✅ 2020-3-31 [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/)  
 
-
+# 题解方法  
+121. 买卖股票的最佳时机  
+方法1:暴力求解  
+方法2:一次遍历，记录买入最低点  
+方法3:滑动窗口  
 
 # 可视化网站  
 [visualgo](https://visualgo.net/zh)
