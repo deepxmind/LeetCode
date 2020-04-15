@@ -4,7 +4,7 @@
 [2020-03月 每日一题](https://leetcode-cn.com/problemset/2020-03/)    
 ✅ 2020-3-1 [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)  
 ✅ 2020-3-2 [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)  
-2020-3-3 [面试题 10.01. 合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/)  
+✅ 2020-3-3 [面试题 10.01. 合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/)  
 2020-3-4 [994. 腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)  
 2020-3-5 [1103. 分糖果 II](https://leetcode-cn.com/problems/distribute-candies-to-people/)  
 2020-3-6 [面试题57 - II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)  
@@ -29,6 +29,9 @@
 方法1:暴力求解  
 方法2:一次遍历，记录买入最低点  
 方法3:滑动窗口  
+  
+面试题 10.01. 合并排序的数组  
+双指针算法，利用已排好序的特点，从数组尾部插入  
 
 [2020-04月 每日一题](https://leetcode-cn.com/problemset/2020-04/)    
 2020-4-1 [1111. 有效括号的嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)  
