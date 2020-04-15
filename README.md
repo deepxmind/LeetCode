@@ -14,7 +14,7 @@
 2020-3-10 [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)  
 2020-3-11 [1013. 将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)  
 2020-3-12 [1071. 字符串的最大公因子](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)  
-2020-3-13 [169. 多数元素](https://leetcode-cn.com/problems/majority-element/)  
+✅ 2020-3-13 [169. 多数元素](https://leetcode-cn.com/problems/majority-element/)  
 2020-3-14 [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)  
 2020-3-15 [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)  
 2020-3-16 [面试题 01.06. 字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/)  
@@ -31,7 +31,10 @@
 方法3:滑动窗口  
   
 面试题 10.01. 合并排序的数组  
-双指针算法，利用已排好序的特点，从数组尾部插入  
+1:双指针算法，利用已排好序的特点，从数组尾部插入  
+  
+169. 多数元素  
+1:Boyer-Moore 投票算法  
 
 [2020-04月 每日一题](https://leetcode-cn.com/problemset/2020-04/)    
 2020-4-1 [1111. 有效括号的嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)  
